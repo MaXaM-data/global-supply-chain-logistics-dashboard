@@ -10,7 +10,7 @@ End-to-end data project combining **Python** (for data privacy & cleaning) with 
 
 ## 1. Business context
 
-A global logistics function was **hitting volume targets but missing margin goals**. Leadership wanted to understand:
+A global logistics function was **hitting volume targets but missing margin goals**. Example questions that might arise:
 
 * How often are we breaching **delivery SLAs**?
 * How do different **shipping modes** (Standard, Second Class, Same Day, First Class) affect profitability?
